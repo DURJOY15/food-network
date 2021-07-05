@@ -1,6 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
-    padding: 5px;
+    padding: 20px;
 }
 .color-orange{
     color: orange;
@@ -39,4 +39,26 @@ h1{
     background-image: linear-gradient(orange,tomato);
     padding: 20px 50px;
     border-radius: 20px;
+}
+.about-me{
+    padding-top: 4%;
+    padding-left: 2%;
+    width: 50%;
+}
+
+.about-me img{
+    width: 50%;
+}
+
+.about-me{
+    background-image: url(images/shapes/Frame\ 58.jpg);
+   background-repeat: no-repeat;
+    
+    
+}
+
+
+.my-recipie{
+    text-align: center;
+    font-weight: 700;
 }
