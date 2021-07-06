@@ -6,6 +6,7 @@ body{
     color: orange;
 }
 .flexible-part{
+    padding-bottom: 20px;
     padding-top: 50px;
     display: flex;
 }
@@ -59,6 +60,48 @@ h1{
 
 
 .my-recipie{
+    padding-top: 4%;
     text-align: center;
-    font-weight: 700;
+    
 }
+.half-width-recipe{
+    width: 35%;
+
+}
+
+.recipie-item{
+    padding-top: 20px;
+    padding-bottom: 30px;
+    width: 30%;
+    margin-left: 2%;
+    margin-right: 2%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+}
+.social-media{
+    
+    width: 20%;
+    margin-left: 10%;
+    
+}
+.social-item{
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 5%;
+    width: 80%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 30px;
+
+}
+
+footer{
+  padding: 30px;
+  background-color: lightgray;
+    text-align: center;
+   
+
+   
+    
+}
+
